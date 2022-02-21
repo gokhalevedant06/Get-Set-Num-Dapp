@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.57dfd47b.css",
-    "main.js": "/static/js/main.bad063ed.js",
-    "index.html": "/index.html",
-    "main.57dfd47b.css.map": "/static/css/main.57dfd47b.css.map",
-    "main.bad063ed.js.map": "/static/js/main.bad063ed.js.map"
+    "main.css": "/Get-Set-Num-Dapp/public/index.html/static/css/main.57dfd47b.css",
+    "main.js": "/Get-Set-Num-Dapp/public/index.html/static/js/main.bad063ed.js",
+    "index.html": "/Get-Set-Num-Dapp/public/index.html/index.html",
+    "main.57dfd47b.css.map": "/Get-Set-Num-Dapp/public/index.html/static/css/main.57dfd47b.css.map",
+    "main.bad063ed.js.map": "/Get-Set-Num-Dapp/public/index.html/static/js/main.bad063ed.js.map"
   },
   "entrypoints": [
     "static/css/main.57dfd47b.css",
