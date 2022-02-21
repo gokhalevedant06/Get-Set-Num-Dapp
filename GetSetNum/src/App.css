@@ -1,0 +1,17 @@
+h1{
+  text-align: center;
+}
+.fcontainer{
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 60%;
+}
+
+button,
+input{
+  width: 50%;
+}

@@ -1,0 +1,3 @@
+contract address - 0xe75F6898d35f1AFd2EaC243b0Fe37bd2Cf18Eaec
+
+deployment details - https://rinkeby.etherscan.io/tx/0xf686ec8e6fa320dbecf89ce3d4500154e96554353dfcd7e6339e9d814d027c72
